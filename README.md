@@ -2,9 +2,9 @@
 
 ## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
 
-![alt text](https://github.com/gayathri1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
+![output](https://user-images.githubusercontent.com/76250835/121639742-9fd94700-caaa-11eb-9f4d-31879eb7755b.png)
 
-#### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
+#### Working link: (Deployed on Heroku) https://my-breast-cancer-detection-app.herokuapp.com/
 
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
@@ -24,7 +24,7 @@ Attribute Information:
 8.	Bland Chromatin:1-10
 9.	Normal Nucleoli:1-10
 10.	Mitoses:1-10
-11.	Class: (0 for Benign, 1 for Malignant)
+11.	Class: (2 for Benign, 4 for Malignant)
 ### 3.Build and Train the model using SVM
 Using SVM (Support Vector Machines) we build and train a model using human cell records, and classify cells to predict whether the samples are benign or malignant.
 ### 4.Flask Creation
